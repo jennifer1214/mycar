@@ -52,7 +52,7 @@
 # #STEERING
 # STEERING_CHANNEL = 1            #channel on the 9685 pwm board 0-15
 STEERING_LEFT_PWM = 450         #pwm value for full left steering
-STEERING_RIGHT_PWM = 280        #pwm value for full right steering
+STEERING_RIGHT_PWM = 270        #pwm value for full right steering
 # 
 # #STEERING FOR PIGPIO_PWM
 # STEERING_PWM_PIN = 13           #Pin numbering according to Broadcom numbers
